@@ -8,3 +8,4 @@ Códigos utilizados para desenvolver as atividades propostas na disciplina de **
 |---|---|---|
 | [Lista_01_escoamento_em_meios_porosos.ipynb](Lista_01_escoamento_em_meios_porosos.ipynb) | Lista 1 | [Abrir](https://colab.research.google.com/github/victorsarmet/mycodes/blob/main/Escoamentos%20em%20meios%20porosos/Lista_01_escoamento_em_meios_porosos.ipynb) |
 | [Lista_02.ipynb](Lista_02.ipynb) | Lista 2 | [Abrir](https://colab.research.google.com/github/victorsarmet/mycodes/blob/main/Escoamentos%20em%20meios%20porosos/Lista_02.ipynb) |
+| [Lista 03/Lista_03_questão_2.ipynb](Lista%2003/Lista_03_quest%C3%A3o_2.ipynb) | Lista 3 — questão 2 | [Abrir](https://colab.research.google.com/github/victorsarmet/mycodes/blob/main/Escoamentos%20em%20meios%20porosos/Lista%2003/Lista_03_quest%C3%A3o_2.ipynb) |
