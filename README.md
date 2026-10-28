@@ -1,1 +1,1 @@
-Repositório para armazenar os códigos desenvolvidos via colab
+Este repositório tem como finalidade salvar os códigos utilizados para desenvolver as atividades propostas na disciplina de "ESCOAMENTOS EM MEIOS POROSOS" do professor Márcio (PUC - Rio)
